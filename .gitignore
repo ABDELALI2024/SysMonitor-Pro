@@ -1,0 +1,20 @@
+# Logs and reports
+logs/
+reports/
+*.log
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Temp
+.tmp/
+.temp/
+*.tmp
+
+# Node or others if accidentally added
+node_modules/
+
+
